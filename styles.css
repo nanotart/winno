@@ -12,7 +12,9 @@ img, picture,video,canvas,svg{
     border-radius: 1rem;
 }
 
-
+.text {
+    color: #FFFFFF,
+}
 
 table {
     border-collapse: collapse;
